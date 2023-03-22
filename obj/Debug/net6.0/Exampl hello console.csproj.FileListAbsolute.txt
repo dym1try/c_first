@@ -1,0 +1,15 @@
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\bin\Debug\net6.0\Exampl hello console.exe
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\bin\Debug\net6.0\Exampl hello console.deps.json
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\bin\Debug\net6.0\Exampl hello console.runtimeconfig.json
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\bin\Debug\net6.0\Exampl hello console.dll
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\bin\Debug\net6.0\Exampl hello console.pdb
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.csproj.AssemblyReference.cache
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.AssemblyInfoInputs.cache
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.AssemblyInfo.cs
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.dll
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\refint\Exampl hello console.dll
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.pdb
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\Exampl hello console.genruntimeconfig.cache
+D:\GeekBrains\C\EXAMPLES\Exampl hello console\obj\Debug\net6.0\ref\Exampl hello console.dll
